@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424111513364",
+    "project_id": "gemstone-eye",
+    "storage_bucket": "gemstone-eye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424111513364:android:8354017599f4385188ac01",
+        "android_client_info": {
+          "package_name": "com.gemstone_eye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxcUaKXhAQf2Emwd_J9PgpqTqzHXxJIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
